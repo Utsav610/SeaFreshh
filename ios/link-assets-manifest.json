@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Fonts/Manrope-Bold.ttf",
+      "sha1": "a5b00f0773b1831401a4d37b41aac0a2512d07f1"
+    },
+    {
+      "path": "src/assets/Fonts/Manrope-ExtraBold.ttf",
+      "sha1": "f06d16bab722897a43a5c36b0cd37496c854bc2d"
+    },
+    {
+      "path": "src/assets/Fonts/Manrope-ExtraLight.ttf",
+      "sha1": "9d2458a6db358904687568c7d9080c7101aa53ef"
+    },
+    {
+      "path": "src/assets/Fonts/Manrope-Light.ttf",
+      "sha1": "4a60d9186889ddc418702bd684b0fb2ead80add4"
+    },
+    {
+      "path": "src/assets/Fonts/Manrope-Medium.ttf",
+      "sha1": "2bffa53c60132b74530decdd7970517c4bf322f5"
+    },
+    {
+      "path": "src/assets/Fonts/Manrope-Regular.ttf",
+      "sha1": "0669ed1c39a25de04fde0e878fc3d89930493d74"
+    },
+    {
+      "path": "src/assets/Fonts/Manrope-SemiBold.ttf",
+      "sha1": "0f9143f0b5eaa62cafbc0146f9712fbf43ddba28"
+    },
+    {
+      "path": "src/assets/Fonts/Outfit-Bold.ttf",
+      "sha1": "58eee7ef179b895fee6c276a722901daf364da9e"
+    },
+    {
+      "path": "src/assets/Fonts/Outfit-Light.ttf",
+      "sha1": "854302f72eba5dd11615ae8ed2ab8311e12fe1df"
+    },
+    {
+      "path": "src/assets/Fonts/Outfit-Medium.ttf",
+      "sha1": "81bf50a4a111815ba3d3a4babbe3719286bba717"
+    },
+    {
+      "path": "src/assets/Fonts/Outfit-Regular.ttf",
+      "sha1": "bd5e1aaf2f3a18cbfb21d6a1c2d17cc3347a2c67"
+    },
+    {
+      "path": "src/assets/Fonts/Outfit-SemiBold.ttf",
+      "sha1": "c0b14d5b4659df8a9d84efbd9f290a78dfc16f45"
+    }
+  ]
+}
