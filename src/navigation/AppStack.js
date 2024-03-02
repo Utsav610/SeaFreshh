@@ -14,6 +14,7 @@ import Cart from '../screen/DashboardScreen/Cart';
 import MyOrder from '../screen/DashboardScreen/MyOrder';
 import Home from '../screen/DashboardScreen/Home';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import Details from '../screen/Details';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -102,6 +103,7 @@ export default function AppStack() {
       <Stack.Screen name="Register" component={Register} />
       <Stack.Screen name="OtpView" component={OtpView} />
       <Stack.Screen name="Dashboard" component={HomeTabs} />
+      <Stack.Screen name="Details" component={Details} />
     </Stack.Navigator>
   );
 }

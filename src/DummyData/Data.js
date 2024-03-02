@@ -47,7 +47,7 @@ export const banner = [
   {
     id: 1,
     image:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_soypdRbB2X-kiqcmE63JCVAy-sFUojrk0VndIaoJw&s',
+      'https://www.sagarfishaquarium.in/wp-content/uploads/2020/12/Fish-banner-Sagar.png',
   },
   {
     id: 2,
@@ -57,7 +57,7 @@ export const banner = [
   {
     id: 3,
     image:
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_soypdRbB2X-kiqcmE63JCVAy-sFUojrk0VndIaoJw&s',
+      'https://www.sagarfishaquarium.in/wp-content/uploads/2020/12/Fish-banner-Sagar.png',
   },
   {
     id: 4,

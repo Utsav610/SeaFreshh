@@ -1,11 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
+import HeaderView from '../../components/HeaderView'
 
 export default function About() {
   return (
-    <View>
-      <Text>About</Text>
-    </View>
+    <>
+      <HeaderView
+      title='About'
+      />
+    </>
   )
 }
 

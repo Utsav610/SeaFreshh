@@ -15,6 +15,7 @@ export const Images={
     Tuna: require('../assets/Images/Tuna.png'),
     Shark:require('../assets/Images/Shark.png'),
     Sea:require('../assets/Images/Sea.png'),
+    Item1:require('../assets/Images/Item1.png'),
 
     // ICON
 
